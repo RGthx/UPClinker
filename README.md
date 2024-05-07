@@ -15,5 +15,7 @@ accountList文件：填写能够登陆的网络账号 账号名 密码 运营商
 （1）此脚本主要适用UPC锐捷web认证，不同认证系统需要修改全局变量中postHeader和postData的格式。  
 （2）不同认证系统登陆成功后的重定向网址不同，根据需要可修改CheckLoginStatus函数中的判别方法。   
 ## 3、部署方法
-使用python3运行UPClinker.py    
+ Windows10/11用户可以尝试直接使用封装好的release包
+或者使用python3运行UPClinker.py  
+注意修改accountList文件；改成自己的校园网账号
 
