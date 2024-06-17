@@ -19,3 +19,5 @@ accountList文件：填写能够登陆的网络账号 账号名 密码 运营商
 或者使用python3运行UPClinker.py  
 注意修改accountList文件；改成自己的校园网账号
 
+## 4、 其他有关项目链接
+1. 中国石油大学(华东) 网络认证系统Python接口  https://github.com/jerry-yuan/ePortalUPC
