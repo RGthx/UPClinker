@@ -1,5 +1,6 @@
 # UPC无线校园网认证python脚本
 # 本项目基于AutoLogin_Mail for UPC Network Authentication，感谢大佬的项目，大佬NB！！！
+源项目地址：https://github.com/mrwtong/UPC_WebAutoLogin_Mail
 ## 该脚本能够方便使用python的系统登录校园网
 此脚本针对UPC校园网认证系统！
 openwrt路由器也可以在安装python3的前提下运行此脚本并登录校园网;
